@@ -28,6 +28,8 @@
 
   // Application name (No spaces)
   "appName": "meteor",
+
+  // Application author
   "appAuthor": "Arunoda Susiripala, <arunoda.susiripala@gmail.com>",
 
   // Location of app (local directory)
