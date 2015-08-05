@@ -111,6 +111,7 @@ This will create two files in your Meteor Up project directory:
 
   // Application name (no spaces).
   "appName": "meteor",
+  "appAuthor": "Arunoda Susiripala, <arunoda.susiripala@gmail.com>",
 
   // Location of app (local directory). This can reference '~' as the users home directory.
   // i.e., "app": "~/Meteor/my-app",
